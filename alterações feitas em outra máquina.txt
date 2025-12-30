@@ -1,0 +1,1 @@
+para "puxar" alterações que outra máquina fez no seu repositório
