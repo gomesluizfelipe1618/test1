@@ -1,1 +1,14 @@
 teste de sincronizacao
+
+
+
+ciclo:
+
+git add . (prepara o arquivo pra ser comittado)
+
+git commit -m "resumo das alterações" (commit)
+
+git push (salva no repositório)
+
+
+OBS: sempre mande o código-fonte, nunca o arquivo executável(.exe, .o, .out)
