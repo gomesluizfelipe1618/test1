@@ -6,7 +6,8 @@ ciclo:
 
 git add . (prepara o arquivo pra ser comittado)
 
-git commit -m "resumo das alterações" (commit)
+{git commit -m "resumo das alterações" (commit)}
+{git commit -a -m "outras alterações" (dá commit em todos os arquivos alterados)}
 
 git push (salva no repositório)
 
