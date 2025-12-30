@@ -1,1 +1,3 @@
-para "puxar" alterações que outra máquina fez no seu repositório
+para "puxar" alterações que outra máquina fez no seu repositório:
+
+git pull
